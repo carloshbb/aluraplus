@@ -112,7 +112,7 @@ margin-bottom: 3em;
 text-align: center;
 display: flex;
 }
-.lista__link{
+.lista__link a{
 color: var(--branco-principal);
 justify-content: center;
 list-style-type: none;
@@ -128,4 +128,5 @@ color: purple;
 .rodape__texto{
 color: var(--branco-principal);
 font-size: 14px;
+
 }
