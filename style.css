@@ -112,11 +112,13 @@ margin-bottom: 3em;
 text-align: center;
 display: flex;
 }
+.lista__link{
+justify-content: center;
+margin: 5em;
+}
 .lista__link a{
 color: var(--branco-principal);
-justify-content: center;
 list-style-type: none;
-margin: 5em;
 text-decoration: none;
 }
 .lista__link a:hover{
@@ -130,3 +132,4 @@ color: var(--branco-principal);
 font-size: 14px;
 
 }
+
