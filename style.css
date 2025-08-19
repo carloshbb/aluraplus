@@ -110,10 +110,10 @@ margin-bottom: 3em;
 }
 .rodape__lista{
 text-align: center;
+display: flex;
 }
 .lista__link{
 color: var(--branco-principal);
-display: flex;
 justify-content: center;
 list-style-type: none;
 margin: 5em;
