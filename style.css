@@ -30,6 +30,9 @@ height: 100vh;
 display: grid;
 grid-template-columns: 50% 50%;
 }
+.container__caixa{
+     margin: 0 10em;
+}
 .container__botao{
 background-color: var(--botao-azul);
 border-radius: 5px;
@@ -133,5 +136,6 @@ color: var(--branco-principal);
 font-size: 14px;
 
 }
+
 
 
