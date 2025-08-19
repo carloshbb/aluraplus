@@ -87,7 +87,7 @@ padding: 2em;
 .dispositivos{
 text-align: center;
 }
-.disposivos__lista{
+.dispositivos__lista{
 display: flex;
 justify-content: center;
 list-style-type: none;
