@@ -115,6 +115,7 @@ display: flex;
 .lista__link{
 justify-content: center;
 margin: 5em;
+list-style-type: none;
 }
 .lista__link a{
 color: var(--branco-principal);
@@ -132,4 +133,5 @@ color: var(--branco-principal);
 font-size: 14px;
 
 }
+
 
