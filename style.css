@@ -106,7 +106,7 @@ color: var(--branco-principal);
 }
 .rodape{
 text-align: center;
-display: grid;
+display: block;
 }
 .rodape__logo{
 text-align: center;
@@ -137,6 +137,7 @@ color: var(--branco-principal);
 font-size: 14px;
 
 }
+
 
 
 
